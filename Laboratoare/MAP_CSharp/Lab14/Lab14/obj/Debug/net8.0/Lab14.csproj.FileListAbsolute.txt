@@ -1,0 +1,17 @@
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Lab14
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Lab14.deps.json
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Lab14.runtimeconfig.json
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Lab14.dll
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Lab14.pdb
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.GeneratedMSBuildEditorConfig.editorconfig
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.AssemblyInfoInputs.cache
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.AssemblyInfo.cs
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.csproj.CoreCompileInputs.cache
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.dll
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/refint/Lab14.dll
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.pdb
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/Lab14.genruntimeconfig.cache
+/home/culbec/facultate/MAP/Lab14/Lab14/obj/Debug/net8.0/ref/Lab14.dll
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Data/achizitii.txt
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Data/documente.txt
+/home/culbec/facultate/MAP/Lab14/Lab14/bin/Debug/net8.0/Data/facturi.txt

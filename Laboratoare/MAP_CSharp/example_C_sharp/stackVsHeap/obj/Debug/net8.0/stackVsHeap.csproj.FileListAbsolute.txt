@@ -1,0 +1,14 @@
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/bin/Debug/net8.0/stackVsHeap
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/bin/Debug/net8.0/stackVsHeap.deps.json
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/bin/Debug/net8.0/stackVsHeap.runtimeconfig.json
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/bin/Debug/net8.0/stackVsHeap.dll
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/bin/Debug/net8.0/stackVsHeap.pdb
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.GeneratedMSBuildEditorConfig.editorconfig
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.AssemblyInfoInputs.cache
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.AssemblyInfo.cs
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.csproj.CoreCompileInputs.cache
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.dll
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/refint/stackVsHeap.dll
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.pdb
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/stackVsHeap.genruntimeconfig.cache
+/home/culbec/facultate/MAP/example_C_sharp/stackVsHeap/obj/Debug/net8.0/ref/stackVsHeap.dll

@@ -1,0 +1,22 @@
+CREATE OR REPLACE FUNCTION generate_friendship_id(user1 UUID, user2 UUID)
+RETURNS UUID AS $$
+BEGIN
+  -- You can generate a UUID based on user1 and user2 here
+  -- For example:
+  RETURN MD5(user1::text || user2::text)::UUID;
+END;
+$$ LANGUAGE plpgsql;
+
+INSERT INTO public."Users"("ID", first_name, last_name, email)
+	VALUES (gen_random_uuid(), 'Tudorel', 'Fraier', 'tudorel.fraier@mail.com');
+INSERT INTO public."Users"("ID", first_name, last_Name, email)
+	VALUES (gen_random_uuid(), 'Pop', 'John', 'pop.john@mail.com')
+	
+INSERT INTO public."Friendships"("ID", "id_user1", "id_user2")
+	VALUES(	generate_friendship_id('f51a22ce-edc9-4772-95c7-1a17dd47205a', 'b29dd635-6a4f-42e3-a298-c9cf8643c735'),
+			'f51a22ce-edc9-4772-95c7-1a17dd47205a', 
+			'b29dd635-6a4f-42e3-a298-c9cf8643c735')
+			
+	
+SELECT * from public."Users";
+SELECt * from public."Friendships";

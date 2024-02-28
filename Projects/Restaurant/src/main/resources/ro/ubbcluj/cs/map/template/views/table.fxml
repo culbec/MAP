@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="900.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ro.ubbcluj.cs.map.template.Controller.TableController">
+    <children>
+        <Label fx:id="tableLabel" layoutX="362.0" layoutY="56.0" text="Table ">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        <VBox layoutX="16.0" layoutY="102.0" prefHeight="773.0" prefWidth="491.0">
+            <children>
+                <VBox fx:id="antreuVBox" prefHeight="200.0" prefWidth="100.0" spacing="20.0">
+                    <children>
+                        <Label text="Antreu">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                    <padding>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </padding>
+                </VBox>
+                <VBox fx:id="felPrincipalVBox" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" spacing="20.0">
+                    <children>
+                        <Label text="Fel principal">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                    <padding>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </padding>
+                </VBox>
+                <VBox fx:id="desertVBox" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" spacing="20.0">
+                    <children>
+                        <Label text="Desert">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                    <padding>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </padding>
+                </VBox>
+                <VBox fx:id="bauturaVBox" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" spacing="20.0">
+                    <children>
+                        <Label text="Bautura">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                    <padding>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </padding>
+                </VBox>
+            </children>
+        </VBox>
+        <Button layoutX="579.0" layoutY="430.0" mnemonicParsing="false" onAction="#handlePlaceOrder" text="Place order">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Button>
+      <Label fx:id="orderStatusLabel" layoutX="375.0" layoutY="14.0" />
+    </children>
+</AnchorPane>

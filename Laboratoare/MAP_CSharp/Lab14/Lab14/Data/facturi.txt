@@ -1,0 +1,6 @@
+f1,30-10-2023,Utilities
+f2,16-01-2024,Groceries
+f3,20-01-2024,Fashion
+f4,31-12-2023,Utilities
+f5,29-02-2024,Utilities
+f6,29-03-2023,Entertainment

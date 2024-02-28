@@ -1,0 +1,14 @@
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.GeneratedMSBuildEditorConfig.editorconfig
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.AssemblyInfoInputs.cache
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.AssemblyInfo.cs
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.csproj.CoreCompileInputs.cache
+/home/culbec/facultate/MAP/example_C_sharp/console_start/bin/Debug/net8.0/console_start
+/home/culbec/facultate/MAP/example_C_sharp/console_start/bin/Debug/net8.0/console_start.deps.json
+/home/culbec/facultate/MAP/example_C_sharp/console_start/bin/Debug/net8.0/console_start.runtimeconfig.json
+/home/culbec/facultate/MAP/example_C_sharp/console_start/bin/Debug/net8.0/console_start.dll
+/home/culbec/facultate/MAP/example_C_sharp/console_start/bin/Debug/net8.0/console_start.pdb
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.dll
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/refint/console_start.dll
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.pdb
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/console_start.genruntimeconfig.cache
+/home/culbec/facultate/MAP/example_C_sharp/console_start/obj/Debug/net8.0/ref/console_start.dll

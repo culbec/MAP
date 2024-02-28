@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fd86d2b-315d-48e5-be39-4d15dfdcdb96" name="Changes" comment="Separate connections to the Database for each interrogation. New user-based feature.">
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Community.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Friendship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Tuple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/RepositoryException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/ServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/ValidatorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/DBRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/FriendshipDBRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/InMemoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/UserDBRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AbstractService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utility/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validator/AbstractValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validator/FriendshipValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validator/UserValidator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;culbec&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a6c5c80c-e71d-4ee0-8ebf-9565e87aa987" />
+        <option name="url" value="https://github.com/culbec/ReteaDeSocializare.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XCyKfhBiC7H28PRUjxZzhZTs4l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Version-0.2",
+    "last_opened_file_path": "/home/culbec/facultate/MAP/SocialNetworkFX",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "AtomHomeConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build --warning-mode all" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ReteaDeSocializare.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RunTests" />
+      <module name="ReteaDeSocializare.test" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReteaDeSocializare [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReteaDeSocializare [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReteaDeSocializare [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--warning-mode all" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RunTests" />
+      <item itemvalue="Gradle.ReteaDeSocializare [assemble]" />
+      <item itemvalue="Gradle.ReteaDeSocializare [buildDependents]" />
+      <item itemvalue="Gradle.ReteaDeSocializare [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ReteaDeSocializare [build]" />
+        <item itemvalue="Gradle.ReteaDeSocializare [buildDependents]" />
+        <item itemvalue="Gradle.ReteaDeSocializare [assemble]" />
+        <item itemvalue="Application.RunTests" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd86d2b-315d-48e5-be39-4d15dfdcdb96" name="Changes" comment="" />
+      <created>1698147293511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698147293511</updated>
+      <workItem from="1698147294634" duration="2892000" />
+      <workItem from="1698152549168" duration="1799000" />
+      <workItem from="1698169590126" duration="235000" />
+      <workItem from="1698169839876" duration="43000" />
+      <workItem from="1698169895691" duration="148000" />
+      <workItem from="1698331653786" duration="1040000" />
+      <workItem from="1698434306112" duration="136000" />
+      <workItem from="1698486429081" duration="10150000" />
+      <workItem from="1698669459614" duration="50000" />
+      <workItem from="1698674512486" duration="906000" />
+      <workItem from="1698760997427" duration="2782000" />
+      <workItem from="1699253208291" duration="6311000" />
+      <workItem from="1699280620161" duration="1911000" />
+      <workItem from="1699365850878" duration="1629000" />
+      <workItem from="1699374293056" duration="4479000" />
+      <workItem from="1699379102087" duration="4910000" />
+      <workItem from="1699454475019" duration="596000" />
+      <workItem from="1699456455836" duration="15065000" />
+      <workItem from="1699517107825" duration="266000" />
+      <workItem from="1699884146807" duration="1979000" />
+      <workItem from="1699890096754" duration="32000" />
+      <workItem from="1699970532253" duration="3128000" />
+      <workItem from="1699983804277" duration="3199000" />
+      <workItem from="1700394209524" duration="1386000" />
+      <workItem from="1700395660634" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="Moved JavaDoc + specified the Tuple class.">
+      <option name="closed" value="true" />
+      <created>1698148306411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148306411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved JavaDoc + specified the Tuple class.">
+      <option name="closed" value="true" />
+      <created>1698148322321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148322321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java 8 Features + Optional on Repository methods + refactored the community feature.">
+      <option name="closed" value="true" />
+      <created>1698494859442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698494859442</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java 8 Features + Optional on Repository methods + refactored the community feature.">
+      <option name="closed" value="true" />
+      <created>1698496506520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698496506520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New feature added. Users with minimum number of friends.">
+      <option name="closed" value="true" />
+      <created>1698763488468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698763488468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New feature added. Users with minimum number of friends.">
+      <option name="closed" value="true" />
+      <created>1699517309234</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699517309234</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PostgresSQL support.">
+      <option name="closed" value="true" />
+      <created>1699517364809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699517364809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Separate connections to the Database for each interrogation. New user-based feature.">
+      <option name="closed" value="true" />
+      <created>1699986874630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699986874630</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Separate connections to the Database for each interrogation. New user-based feature.">
+      <option name="closed" value="true" />
+      <created>1699986984738</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699986984738</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved JavaDoc + specified the Tuple class." />
+    <MESSAGE value="Java 8 Features + Optional on Repository methods + refactored the communities feature." />
+    <MESSAGE value="Java 8 Features + Optional on Repository methods + refactored the community feature." />
+    <MESSAGE value="New feature added. Users with minimum number of friends." />
+    <MESSAGE value="PostgresSQL support." />
+    <MESSAGE value="Separate connections to the Database for each interrogation. New user-based feature." />
+    <option name="LAST_COMMIT_MESSAGE" value="Separate connections to the Database for each interrogation. New user-based feature." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestDBRepository.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestDBRepository.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ReteaDeSocializare$RunTests.ic" NAME="RunTests Coverage Results" MODIFIED="1698496477149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

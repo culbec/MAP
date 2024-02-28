@@ -1,0 +1,17 @@
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Sem11
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Sem11.deps.json
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Sem11.runtimeconfig.json
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Sem11.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Sem11.pdb
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.GeneratedMSBuildEditorConfig.editorconfig
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.AssemblyInfoInputs.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.AssemblyInfo.cs
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.csproj.CoreCompileInputs.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/refint/Sem11.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.pdb
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/Sem11.genruntimeconfig.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/obj/Debug/net8.0/ref/Sem11.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Data/employees.txt
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Data/taskassignments.txt
+/home/culbec/facultate/MAP/MAP_CSharp/Sem11/bin/Debug/net8.0/Data/tasks.txt

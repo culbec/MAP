@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Seminar11MAP.exe
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Seminar11MAP.deps.json
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Seminar11MAP.runtimeconfig.json
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Seminar11MAP.dll
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Seminar11MAP.pdb
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.dll
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\refint\Seminar11MAP.dll
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.pdb
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\Seminar11MAP.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\obj\Debug\net8.0\ref\Seminar11MAP.dll
+C:\Users\Alex\RiderProjects\Seminar11MAP\Seminar11MAP\bin\Debug\net8.0\Data\Employees.txt

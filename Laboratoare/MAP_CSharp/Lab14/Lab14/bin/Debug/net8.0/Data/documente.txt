@@ -1,0 +1,6 @@
+f1,Factura1,20-08-2023
+f2,Factura2,06-01-2024
+f3,Factura3,25-03-2023
+f4,Factura4,08-12-2023
+f5,Factura5,15-01-2024
+f6,Factura6,15-04-2023

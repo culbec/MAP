@@ -1,0 +1,25 @@
+-- Table: public.Friendships
+
+-- DROP TABLE IF EXISTS public."Friendships";
+
+CREATE TABLE IF NOT EXISTS public."Friendships"
+(
+    "ID" uuid NOT NULL,
+    id_user1 uuid NOT NULL,
+    id_user2 uuid NOT NULL,
+    CONSTRAINT pk_friendships PRIMARY KEY ("ID")
+        INCLUDE(id_user1, id_user2),
+    CONSTRAINT fk_id_user1 FOREIGN KEY (id_user1)
+        REFERENCES public."Users" ("ID") MATCH SIMPLE
+        ON UPDATE CASCADE
+        ON DELETE CASCADE,
+    CONSTRAINT fk_id_user2 FOREIGN KEY (id_user2)
+        REFERENCES public."Users" ("ID") MATCH SIMPLE
+        ON UPDATE CASCADE
+        ON DELETE CASCADE
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public."Friendships"
+    OWNER to postgres;

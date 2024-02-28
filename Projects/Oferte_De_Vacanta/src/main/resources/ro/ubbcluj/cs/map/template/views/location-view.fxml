@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.14-internal"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ro.ubbcluj.cs.map.template.Controller.LocationController">
+    <children>
+        <ComboBox fx:id="locationComboBox" layoutX="250.0" layoutY="35.0" onAction="#handleLocation" prefWidth="300.0"
+                  promptText="Select a location"/>
+        <TableView fx:id="hotelTableView" layoutX="22.0" layoutY="76.0" prefHeight="501.0" prefWidth="762.0">
+            <columns>
+                <TableColumn fx:id="hotelNameTableColumn" prefWidth="75.0" text="Hotel name"/>
+                <TableColumn fx:id="noRoomsTableColumn" prefWidth="75.0" text="Numar camere"/>
+                <TableColumn fx:id="priceTableColumn" prefWidth="75.0" text="Pret pe noapte"/>
+                <TableColumn fx:id="typeTableColumn" prefWidth="75.0" text="Tip"/>
+            </columns>
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY"/>
+            </columnResizePolicy>
+        </TableView>
+    </children>
+</AnchorPane>

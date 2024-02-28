@@ -1,0 +1,14 @@
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/bin/Debug/net8.0/Curs12
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/bin/Debug/net8.0/Curs12.deps.json
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/bin/Debug/net8.0/Curs12.runtimeconfig.json
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/bin/Debug/net8.0/Curs12.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/bin/Debug/net8.0/Curs12.pdb
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.GeneratedMSBuildEditorConfig.editorconfig
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.AssemblyInfoInputs.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.AssemblyInfo.cs
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.csproj.CoreCompileInputs.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/refint/Curs12.dll
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.pdb
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/Curs12.genruntimeconfig.cache
+/home/culbec/facultate/MAP/MAP_CSharp/Curs12/obj/Debug/net8.0/ref/Curs12.dll
